@@ -1,0 +1,26 @@
+{
+  "name": "manipulate",
+  "version": "1.0.0",
+  "main": "manipulate-entries.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youssefhajjaoui/pool-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Youssefhajjaoui/pool-js/issues"
+  },
+  "homepage": "https://github.com/Youssefhajjaoui/pool-js#readme",
+  "description": ""
+}
